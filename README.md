@@ -1,4 +1,7 @@
 # CineAI-Agent
+<img width="1392" alt="image" src="https://github.com/user-attachments/assets/3861ceee-541c-44c5-bcf1-836e0f6c1253" />
+
+
 
 CineAI-Agent is an AI-powered backend service designed to interact with movie databases and provide intelligent recommendations, search, and analysis features for cinematic content.
 
